@@ -1,0 +1,314 @@
+{
+  "Categories": [
+    {
+      "CategoryID": 1,
+      "Name": "Servering",
+      "Alias": "Services",
+      "Subcategories": [
+        {
+          "SubcategoryID": "",
+          "Name": "",
+          "Alias": "",
+          "Activity": [
+            {
+              "ActivityID": "",
+              "Image":"",
+              "Name": "",
+              "Address": "",
+              "Telephone": "",
+              "Email": "",
+              "Website": "",
+              "Explain": "",
+              "Explain(en)": "",
+              "Start_Time": "",
+              "End_Time": "",
+              "Comments": [
+                {
+                  "CommentID": "",
+                  "CustomerID": "",
+                  "CustomerName": "",
+                  "Title": "",
+                  "Text": "",
+                  "Icon": "",
+                  "Video": "",
+                  "Voice": "",
+                  "Emoji": "",
+                  "showable": ""
+                }
+              ],
+              "Events": [
+                {
+                  "EventID": "",
+                  "EventDate": "",
+                  "Event_StartTime": "",
+                  "Event_EndTime": "",
+                  "Price": "",
+                  "SaleLink": "",
+                  "Title": "",
+                  "Title(en)": "",
+                  "Tema": "",
+                  "Tema(en)": "",
+                  "Image":"",
+                  "Event_Explain": "",
+                  "Event_Explain(en)": "",
+                  "Address": "",
+                  "Remain_Tickets": "",
+                  "Age-Constraint": ""
+                }
+              ],
+              "Tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "CategoryID": 2,
+      "Name": "Kunst & Kultur",
+      "Alias": "Art & Culture",
+      "Subcategories": [
+        {
+          "SubcategoryID": "",
+          "Name": "",
+          "Alias": "",
+          "Activity": [
+            {
+              "ActivityID": "",
+              "Image":"",
+              "Name": "",
+              "Address": "",
+              "Telephone": "",
+              "Email": "",
+              "Website": "",
+              "Explain": "",
+              "Explain(en)": "",
+              "Start_Time": "",
+              "End_Time": "",
+              "Comments": [
+                {
+                  "CommentID": "",
+                  "CustomerID": "",
+                  "CustomerName": "",
+                  "Title": "",
+                  "Text": "",
+                  "Icon": "",
+                  "Video": "",
+                  "Voice": "",
+                  "Emoji": "",
+                  "showable": ""
+                }
+              ],
+              "Events": [
+                {
+                  "EventID": "",
+                  "EventDate": "",
+                  "Event_StartTime": "",
+                  "Event_EndTime": "",
+                  "Price": "",
+                  "SaleLink": "",
+                  "Title": "",
+                  "Title(en)": "",
+                  "Tema": "",
+                  "Tema(en)": "",
+                  "Image":"",
+                  "Event_Explain": "",
+                  "Event_Explain(en)": "",
+                  "Address": "",
+                  "Remain_Tickets": "",
+                  "Age-Constraint": ""
+                }
+              ],
+              "Tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "CategoryID": 3,
+      "Name": "By Sysel",
+      "Alias": "Engages",
+      "Subcategories": [
+        {
+          "SubcategoryID": "",
+          "Name": "",
+          "Alias": "",
+          "Activity": [
+            {
+              "ActivityID": "",
+              "Image":"",
+              "Name": "",
+              "Address": "",
+              "Telephone": "",
+              "Email": "",
+              "Website": "",
+              "Explain": "",
+              "Explain(en)": "",
+              "Start_Time": "",
+              "End_Time": "",
+              "Comments": [
+                {
+                  "CommentID": "",
+                  "CustomerID": "",
+                  "CustomerName": "",
+                  "Title": "",
+                  "Text": "",
+                  "Icon": "",
+                  "Video": "",
+                  "Voice": "",
+                  "Emoji": "",
+                  "showable": ""
+                }
+              ],
+              "Events": [
+                {
+                  "EventID": "",
+                  "EventDate": "",
+                  "Event_StartTime": "",
+                  "Event_EndTime": "",
+                  "Price": "",
+                  "SaleLink": "",
+                  "Title": "",
+                  "Title(en)": "",
+                  "Tema": "",
+                  "Tema(en)": "",
+                  "Image":"",
+                  "Event_Explain": "",
+                  "Event_Explain(en)": "",
+                  "Address": "",
+                  "Remain_Tickets": "",
+                  "Age-Constraint": ""
+                }
+              ],
+              "Tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "CategoryID": 4,
+      "Name": "Barn & Unge",
+      "Alias": "Child & Young",
+      "Subcategories": [
+        {
+          "SubcategoryID": "",
+          "Name": "",
+          "Alias": "",
+          "Activity": [
+            {
+              "ActivityID": "",
+              "Image":"",
+              "Name": "",
+              "Address": "",
+              "Telephone": "",
+              "Email": "",
+              "Website": "",
+              "Explain": "",
+              "Explain(en)": "",
+              "Start_Time": "",
+              "End_Time": "",
+              "Comments": [
+                {
+                  "CommentID": "",
+                  "CustomerID": "",
+                  "CustomerName": "",
+                  "Title": "",
+                  "Text": "",
+                  "Icon": "",
+                  "Video": "",
+                  "Voice": "",
+                  "Emoji": "",
+                  "showable": ""
+                }
+              ],
+              "Events": [
+                {
+                  "EventID": "",
+                  "EventDate": "",
+                  "Event_StartTime": "",
+                  "Event_EndTime": "",
+                  "Price": "",
+                  "SaleLink": "",
+                  "Title": "",
+                  "Title(en)": "",
+                  "Tema": "",
+                  "Tema(en)": "",
+                  "Image":"",
+                  "Event_Explain": "",
+                  "Event_Explain(en)": "",
+                  "Address": "",
+                  "Remain_Tickets": "",
+                  "Age-Constraint": ""
+                }
+              ],
+              "Tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "CategoryID": 5,
+      "Name": "Ny I Byen",
+      "Alias": "New In City",
+      "Subcategories": [
+        {
+          "SubcategoryID": "",
+          "Name": "",
+          "Alias": "",
+          "Activity": [
+            {
+              "ActivityID": "",
+              "Image":"",
+              "Name": "",
+              "Address": "",
+              "Telephone": "",
+              "Email": "",
+              "Website": "",
+              "Explain": "",
+              "Explain(en)": "",
+              "Start_Time": "",
+              "End_Time": "",
+              "Comments": [
+                {
+                  "CommentID": "",
+                  "CustomerID": "",
+                  "CustomerName": "",
+                  "Title": "",
+                  "Text": "",
+                  "Icon": "",
+                  "Video": "",
+                  "Voice": "",
+                  "Emoji": "",
+                  "showable": ""
+                }
+              ],
+              "Events": [
+                {
+                  "EventID": "",
+                  "EventDate": "",
+                  "Event_StartTime": "",
+                  "Event_EndTime": "",
+                  "Price": "",
+                  "SaleLink": "",
+                  "Title": "",
+                  "Title(en)": "",
+                  "Tema": "",
+                  "Tema(en)": "",
+                  "Image":"",
+                  "Event_Explain": "",
+                  "Event_Explain(en)": "",
+                  "Address": "",
+                  "Remain_Tickets": "",
+                  "Age-Constraint": ""
+                }
+              ],
+              "Tags": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
